@@ -1,0 +1,1 @@
+Done: 6 bài luyện filter/transform/aggregate/count + verify Run All + notes + commit | Evidence: output đúng + Jupyter Run All + git log | Notes/Issues: chú ý edge case rỗng, return vs print, dict.get | Next: Python cho dữ liệu (tuple/set, enumerate/zip, sort key)
